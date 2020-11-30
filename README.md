@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Samadrit 👋
 
 <!--
 **samadritsarkar2/samadritsarkar2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Samadrit's github stats](https://github-readme-stats.vercel.app/api?username=samadritsarkar2)](https://github.com/anuraghazra/github-readme-stats)
+[![Samadrit's github stats](https://github-readme-stats.vercel.app/api?username=samadritsarkar2&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=bttv2&theme=react)](https://github.com/anuraghazra/github-readme-stats)
