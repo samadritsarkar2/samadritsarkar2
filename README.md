@@ -1,7 +1,7 @@
 ### Hi there, I am Samadrit 👋
 
 - 🔭 I’m currently working with and learning React Native,
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Redux and stuffs related to spirituality.
 - 👯 I’m looking to collaborate on projects using MERN stack or React Native.
 - 🤔 I’m looking for help with JS.
 - 💬 Ask me about Memes XD.
