@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Samadrit's github stats](https://github-readme-stats.vercel.app/api?username=samadritsarkar2&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=bttv2&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-blog&theme=react)](https://github.com/anuraghazra/github-readme-stats)
