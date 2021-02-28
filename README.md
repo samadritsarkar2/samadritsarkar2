@@ -10,7 +10,7 @@
   
 - ⚡ Fun fact: I flex about the fact that, ***@samadritsarkar2*** is my username in each and every social media.
 
-[![Samadrit's github stats](https://github-readme-stats.vercel.app/api?username=samadritsarkar2&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Samadrit's github stats](https://github-readme-stats.vercel.app/api?username=samadritsarkar2&theme=react)]()
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=bttv2&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-blog&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=bttv2&theme=react)](https://github.com/samadritsarkar2/bttv2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-blog&theme=react)](https://github.com/samadritsarkar2/sp-blog)
