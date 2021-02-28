@@ -1,7 +1,7 @@
 ### Hi there, I am Samadrit 👋
 - 💻 I consider myself proficient in Backend with the likes of NodeJs and MongoDB.
 - 🔭 I’m currently working with and learning React Native,
-- 🌱 I’m currently learning Redux-State Management and creating better UI/UX for Native Apps.
+- 🌱 I’m currently learning Redux-State Management and UI/UX for Native Apps.
 - 👯 I’m looking to collaborate on projects using MERN stack or React Native.
 - 🤔 I’m looking for help with UI/UX.
 - 💬 Ask me about Memes XD.
