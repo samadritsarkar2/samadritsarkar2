@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects using MERN stack or React Native.
 - 🤔 I’m looking for help with UI/UX. 
 - 💬 Ask me about Memes XD or 90s Hindi songs maybe.
-- ⚡ Fun fact: I flex about the fact that, ***@samadritsarkar2*** is my username in each and every social media.
+- ⚡ Fun fact: I am ***@samadritsarkar2*** on all social !
 - 📫 How to reach me: 
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="35" height="35"/>](https://www.instagram.com/samadritsarkar2) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="35" height="35"/>](https://www.linkedin.com/in/samadritsarkar2/) [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="35" height="35"/>](https://twitter.com/samadritsarkar2)
 
