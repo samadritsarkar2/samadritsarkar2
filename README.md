@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/samadritsarkar2/thePerfectShot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-thePerfectShot&theme=react" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=thePerfectShot&theme=react" align="center" />
 </a>
