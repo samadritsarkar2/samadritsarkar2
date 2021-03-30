@@ -19,3 +19,7 @@
 <a href="https://github.com/samadritsarkar2/sp-blog">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-blog&theme=react" align="center" />
 </a>
+
+<a href="https://github.com/samadritsarkar2/thePerfectShot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-thePerfectShot&theme=react" align="center" />
+</a>
