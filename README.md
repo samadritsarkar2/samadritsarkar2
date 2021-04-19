@@ -23,3 +23,8 @@
 <a href="https://github.com/samadritsarkar2/thePerfectShot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=thePerfectShot&theme=react" align="center" />
 </a>
+
+<a href="https://github.com/samadritsarkar2/spotifyDown">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=spotifyDown&theme=react" align="center" />
+</a>
+
