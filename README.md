@@ -13,6 +13,10 @@
 
 [![Samadrit's github stats](https://github-readme-stats.vercel.app/api?username=samadritsarkar2&theme=react)](https://github.com/samadritsarkar2)
 
+<a href="https://github.com/samadritsarkar2/spotifyDown">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=spotifyDown&theme=react" align="center" />
+</a>
+
 <a href="https://github.com/samadritsarkar2/bttv2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=bttv2&theme=react" align="center" />
 </a>
@@ -25,7 +29,4 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=thePerfectShot&theme=react" align="center" />
 </a>
 
-<a href="https://github.com/samadritsarkar2/spotifyDown">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=samadritsarkar2&repo=spotifyDown&theme=react" align="center" />
-</a>
 
