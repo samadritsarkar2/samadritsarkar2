@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/samadritsarkar2/sp-blog">
-  <img src="https://github-readme-stat-sam.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-blog&theme=react" align="center" />
+  <img src="https://github-readme-stats-sam.vercel.app/api/pin/?username=samadritsarkar2&repo=sp-blog&theme=react" align="center" />
 </a>
 
 <a href="https://github.com/samadritsarkar2/thePerfectShot">
